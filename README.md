@@ -41,5 +41,7 @@ Deploy using Git or Heroku CLI.
 Interacting with the Application
 After deployment, the application allows for uploading WhatsApp chat logs and visually analyzing the extracted data.
 
+[Whatsapp chat analyzer heroku](https://whats-app-chat-analyzer-146a3e48c2bc.herokuapp.com/)
+
 ## Contributing
 To contribute, please fork the repository, make changes, and submit a pull request.
