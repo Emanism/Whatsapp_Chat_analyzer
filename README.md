@@ -1,4 +1,4 @@
-## WhatsApp Chat Analyzer
+## WhatsApp Chat Analyzer: A Comprehensive End-to-End Project Deployed on Heroku
 
 ## Overview
 This project is designed to analyze WhatsApp chats, providing insights through sentiment and emotion analysis. It utilizes Python libraries such as Streamlit for visualization and is configured for deployment on platforms like Heroku.
