@@ -41,7 +41,17 @@ Deploy using Git or Heroku CLI.
 Interacting with the Application
 After deployment, the application allows for uploading WhatsApp chat logs and visually analyzing the extracted data.
 
+
+HERE IS THE APP LINK:
 [Whatsapp chat analyzer heroku](https://whats-app-chat-analyzer-146a3e48c2bc.herokuapp.com/)
 
+# HOW TO USE THE WEB APP;
+1.  Open the web app
+2.  Expert any WhatsApp chat which you want to analyze there.
+3.  Remember that chat should be exported in 24 hour-date format; otherwise, it won't work.
+4.  Upload the chat to the app and press the button that indicates show analysis.
+5.  Voila, you will have all the analysis of that chat, and you will get to know which day is the busiest and also who is the most talkative, and much more.
+
+   
 ## Contributing
 To contribute, please fork the repository, make changes, and submit a pull request.
