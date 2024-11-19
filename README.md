@@ -46,7 +46,7 @@ HERE IS THE APP LINK:
 [Whatsapp chat analyzer Demonstration Link]((https://www.linkedin.com/in/emaanism/recent-activity/all/))
 
 
-# HOW TO USE THE WEB APP;
+# HOW TO USE THE WEB APP:
 1.  Open the web app
 2.  Expert any WhatsApp chat which you want to analyze there.
 3.  Remember that chat should be exported in 24 hour-date format; otherwise, it won't work.
