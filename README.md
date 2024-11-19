@@ -43,7 +43,7 @@ After deployment, the application allows for uploading WhatsApp chat logs and vi
 
 
 HERE IS THE APP LINK:
-[Whatsapp chat analyzer Demonstration Link](https://www.linkedin.com/in/emaanism/recent-activity/all/)
+[Whatsapp chat analyzer Demonstration Link](https://www.linkedin.com/posts/emaanism_whatsapp-chatanalytics-datavisualization-activity-7188222744658857984-6c_Z?utm_source=share&utm_medium=member_desktop)
 
 
 # HOW TO USE THE WEB APP:
