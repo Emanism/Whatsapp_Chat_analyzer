@@ -43,7 +43,8 @@ After deployment, the application allows for uploading WhatsApp chat logs and vi
 
 
 HERE IS THE APP LINK:
-[Whatsapp chat analyzer heroku](https://whats-app-chat-analyzer-146a3e48c2bc.herokuapp.com/)
+[Whatsapp chat analyzer Demonstration Link]((https://www.linkedin.com/in/emaanism/recent-activity/all/))
+
 
 # HOW TO USE THE WEB APP;
 1.  Open the web app
